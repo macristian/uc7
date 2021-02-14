@@ -1,8 +1,10 @@
 #Ignora diretório gerados a partir do EF
 Migrations/
 
-#Ignora diretório gerados pelo sistema
+#Ignora diretórios de Debug gerados pelo sistema
 bin/
+
+obj/
 
 #Ignora arquivo com credenciais sensíveis ao sistema
 Controllers/HomeController.cs
