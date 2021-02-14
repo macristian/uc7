@@ -1,0 +1,106 @@
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+G:\CBS\Cursos\SENAC\Técnico em Informática para Internet\06 - UC7\Atividades\Atividade 2\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache

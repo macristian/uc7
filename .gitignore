@@ -1,0 +1,8 @@
+#Ignora diretório gerados a partir do EF
+Migrations/
+
+#Ignora diretório gerados pelo sistema
+bin/
+
+#Ignora arquivo com credenciais sensíveis ao sistema
+Controllers/HomeController.cs
