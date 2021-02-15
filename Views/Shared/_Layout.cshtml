@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -22,7 +23,7 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item dropdown">
                             <a class="nav-link text-light dropdown-toggle" data-toggle="dropdown" href="#"
-                                href="#" id="menuLivros">Livros</a>
+                                id="menuLivros">Livros</a>
                             <div class="dropdown-menu" aria-labelledby="menuLivros">
                                 <a class="dropdown-item" href="/Livro/Listagem">Listagem</a>
                                 <a class="dropdown-item" href="/Livro/Cadastro">Cadastro</a>
@@ -38,6 +39,9 @@
                         </li>
                     </ul>
                 </div>
+            </div>
+            <div style="float:right;">
+                <a class="nav-link text-light" href='@Url.Action("Logout", "Home")'> Sair</a>
             </div>
         </nav>
     </header>
