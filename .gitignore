@@ -7,4 +7,4 @@ bin/
 obj/
 
 #Ignora arquivo com credenciais sensíveis ao sistema
-Controllers/HomeController.cs
+Controllers/Autenticacao.cs
